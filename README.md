@@ -7,6 +7,6 @@ Getting Started
 ------------
 
 1. Modify any variables as necessary in appropriate script/config
-1. Set appropriate permissions
+1. Set appropriate permissions (ex. chmod +x script.sh)
 1. ???
 1. Profit!
